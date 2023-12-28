@@ -1,9 +1,9 @@
 # final-project-suraj_lucas
-final-project-suraj_lucas created by GitHub Classroo
+final-project-suraj_lucas created by GitHub Classroom
 
 ## Patient GUI functionality
 
-Video Demo: https://youtu.be/KeNGyYvRgCQ 
+Video Demo: [https://youtu.be/KeNGyYvRgCQ ](https://youtu.be/X3FIjRcxxJg?feature=shared)
 
 The Gui allows for the following functionality:
 Allows the user to enter a patient name.
@@ -66,7 +66,7 @@ The above route resets a patient from a room given their MRN and removes them fr
 
 MIT License
 
-Copyright (c) [2023] [Suraj Dhulipalla, Lucas Ramirez]
+Copyright (c) [2023] [Suraj Dhulipalla]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
