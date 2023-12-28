@@ -1,5 +1,4 @@
-# final-project-suraj_lucas
-final-project-suraj_lucas created by GitHub Classroom
+# CPAP Interface for Lab and Patient Interaction
 
 ## Patient GUI functionality
 
