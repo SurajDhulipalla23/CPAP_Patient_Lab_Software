@@ -3,7 +3,7 @@ final-project-suraj_lucas created by GitHub Classroom
 
 ## Patient GUI functionality
 
-Video Demo: [https://youtu.be/KeNGyYvRgCQ ](https://youtu.be/X3FIjRcxxJg?feature=shared)
+Video Demo of the Patient Side GUI Functionality: [https://youtu.be/KeNGyYvRgCQ ](https://youtu.be/X3FIjRcxxJg?feature=shared)
 
 The Gui allows for the following functionality:
 Allows the user to enter a patient name.
