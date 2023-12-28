@@ -1,0 +1,10 @@
+requests
+flask
+pytest
+pytest-pycodestyle
+datetime
+pymodm
+dnspython
+Pillow
+scipy
+matplotlib
